@@ -480,6 +480,17 @@ const en: LocaleType = {
           SubTitle: "Example: ",
         },
       },
+      SiliconFlow: {
+        ApiKey: {
+          Title: "SiliconFlow API Key",
+          SubTitle: "Use a custom SiliconFlow API Key",
+          Placeholder: "SiliconFlow API Key",
+        },
+        Endpoint: {
+          Title: "Endpoint Address",
+          SubTitle: "Example: ",
+        },
+      },
       Stability: {
         ApiKey: {
           Title: "Stability API Key",
@@ -530,6 +541,17 @@ const en: LocaleType = {
         GoogleSafetySettings: {
           Title: "Google Safety Settings",
           SubTitle: "Select a safety filtering level",
+        },
+      },
+      AI302: {
+        ApiKey: {
+          Title: "302.AI API Key",
+          SubTitle: "Use a custom 302.AI API Key",
+          Placeholder: "302.AI API Key",
+        },
+        Endpoint: {
+          Title: "Endpoint Address",
+          SubTitle: "Example: ",
         },
       },
     },
@@ -646,6 +668,9 @@ const en: LocaleType = {
   },
   Discovery: {
     Name: "Discovery",
+  },
+  Mcp: {
+    Name: "MCP",
   },
   FineTuned: {
     Sysmessage: "You are an assistant that",
